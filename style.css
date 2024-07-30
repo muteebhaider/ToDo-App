@@ -8,7 +8,7 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #6b96f3, #5c0ae0);
+    background: linear-gradient(135deg, #5138ee, #5c0ae0);
     padding: 10px;
 }
 
@@ -81,7 +81,7 @@ li::before {
     background-image: url(imgs/uncheck.png);
     background-size: cover;
     background-position: center;
-    top: 2px;
+    top: 8px;
     left: 10px; /* Adjusted positioning */
 }
 
