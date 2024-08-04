@@ -49,7 +49,7 @@ input {
     border: none;
     outline: none;
     background: transparent;
-    font-size: 16px; /* Fixed typo here */
+    font-size: 16px;
 }
 
 button {
@@ -82,7 +82,7 @@ li::before {
     background-size: cover;
     background-position: center;
     top: 8px;
-    left: 10px; /* Adjusted positioning */
+    left: 10px;
 }
 
 ul li.checked {
@@ -96,15 +96,15 @@ ul li.checked::before {
 
 ul li span {
     position: absolute;
-    right: 10px; /* Adjusted positioning */
+    right: 10px;
     top: 50%;
     transform: translateY(-50%);
-    width: 30px; /* Adjusted size */
-    height: 30px; /* Adjusted size */
-    font-weight: 400; /* Fixed typo */
+    width: 30px;
+    height: 30px;
+    font-weight: 400;
     font-size: 22px;
     color: #555;
-    line-height: 30px; /* Adjusted line-height */
+    line-height: 30px;
     text-align: center;
     border-radius: 50%;
     background: #fff;
